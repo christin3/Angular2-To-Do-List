@@ -1,0 +1,13 @@
+Command Line  scripts
+
+ts is type script files
+
+{ ng  generate component } will create a skel. component
+
+{ ng serve } will set up your server
+
+
+{ ng build --prod }  last step in the process to turn your app into a bundle so the server can read it
+
+
+angular.io
